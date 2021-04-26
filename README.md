@@ -14,6 +14,11 @@ Seeing the data, we decided that one of the most helpful things which will actua
 
 We have made use of SHAP and LIME model interpreters to be able to anaylse the reasoning of our machine learning algorithms;
 
+
+The code for the data processing can be found in the Jupyter-Notebook entitled: Data_Visualisation.ipynb
+The summary of our project can be found in the Jupyter-Notebook entitled: Prezentare.ipynb
+
+
 Link to the dataset : 
 (https://data.gov.ro/dataset/transparenta-covid)
 Credits to data.gov.ro for developing their data sharing platform;
